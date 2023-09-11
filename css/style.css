@@ -1,0 +1,48 @@
+*{
+    text-align: center;
+    background-color: rgb(2, 3, 70);
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    color: aliceblue;
+}
+input {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #333;
+    color: white;
+    border:  3px solid white;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+.hidden {
+    display: none;
+}
+
+.input-container {
+    margin: 20px auto;
+    width: 300px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+.city  {
+    background-color: b34b2e;
+    color: rgb(227, 207, 207);
+    border: 2px solid rgb(255, 255, 255);
+    margin: 20px;
+    padding: 20px;
+  }
